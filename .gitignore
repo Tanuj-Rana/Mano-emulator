@@ -1,0 +1,14 @@
+# Compiled Executables
+emulator
+emulator.exe
+
+# Object files
+*.o
+
+# Binary files
+*.bin
+assembly.bin
+
+# OS junk
+.DS_Store
+Thumbs.db
