@@ -30,5 +30,5 @@ To compile your assembly code into a compatible binary for this virtual machine,
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Your-Username/emulator.git](https://github.com/Your-Username/emulator.git)
+   git clone [https://github.com/Tanuj-Rana/emulator.git](https://github.com/Tanuj-Rana/emulator.git)
    cd emulator
