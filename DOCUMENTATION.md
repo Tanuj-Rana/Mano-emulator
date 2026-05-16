@@ -281,7 +281,7 @@ from the current directory.
 Example Execution
 
 Example terminal output:
-```
+
 Hello World!
 
 Enter a number : 5
@@ -291,7 +291,10 @@ Execution Halted
 Final AC = 15
 Final PC = 1206
 Example Programs
-Addition Program
+
+Addition Program-
+
+```
 VAR a 50;
 VAR b 25;
 VAR c 15;
@@ -323,6 +326,7 @@ are automatically stored inside the:
 Data Segment (0–499 words)
 
 Example:
+
 ```
 VAR x 50;
 
